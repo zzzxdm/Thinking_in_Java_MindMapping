@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="901b05e6-5197-4f82-852d-7cc47648ddb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YPwUSOaw4CcQZ9Jmh4SqhbyHiU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="901b05e6-5197-4f82-852d-7cc47648ddb1" name="Default Changelist" comment="" />
+      <created>1559873515906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559873515906</updated>
+      <workItem from="1559873517733" duration="980000" />
+      <workItem from="1569029327999" duration="460000" />
+      <workItem from="1569204964383" duration="189000" />
+      <workItem from="1582857554715" duration="926000" />
+      <workItem from="1583143159788" duration="316000" />
+      <workItem from="1585375948854" duration="256000" />
+    </task>
+    <task id="LOCAL-00001" summary="rename">
+      <created>1559874286440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559874286440</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rename">
+      <created>1559874349938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559874349938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="spring xmind">
+      <created>1559874522039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559874522039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="浮生六记">
+      <created>1569029511482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569029511482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="浮生六记">
+      <created>1569029748843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569029748843</updated>
+    </task>
+    <task id="LOCAL-00006" summary="浮生六记">
+      <created>1569029794068</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569029794068</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Spring AOP 文章">
+      <created>1569205046310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569205046311</updated>
+    </task>
+    <task id="LOCAL-00008" summary="leetcode tree">
+      <created>1570698244530</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570698244530</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Netty 的 Channel、Promise、Pipeline">
+      <created>1572081776760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572081776760</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Netty 的 Channel、Promise、Pipeline">
+      <created>1572081793733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572081793733</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Netty思维导图">
+      <created>1582186947432</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582186947432</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Netty思维导图">
+      <created>1582187147090</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582187147090</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add新文章">
+      <created>1582859522487</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582859522487</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2020-03-02">
+      <created>1583143252467</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583143252467</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2020-03-02">
+      <created>1583143435350</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583143435350</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2020-03-28">
+      <created>1585376116583</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585376116583</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2020-0703">
+      <created>1594364890105</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1594364890105</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2020-08-03">
+      <created>1596420484822</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596420484822</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2020-08-19">
+      <created>1597847286220</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1597847286220</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rename" />
+    <MESSAGE value="spring xmind" />
+    <MESSAGE value="浮生六记" />
+    <MESSAGE value="Spring AOP 文章" />
+    <MESSAGE value="leetcode tree" />
+    <MESSAGE value="Netty 的 Channel、Promise、Pipeline" />
+    <MESSAGE value="Netty思维导图" />
+    <MESSAGE value="add新文章" />
+    <MESSAGE value="2020-03-02" />
+    <MESSAGE value="2020-03-28" />
+    <MESSAGE value="2020-0703" />
+    <MESSAGE value="2020-08-03" />
+    <MESSAGE value="2020-08-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-08-19" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="848" height="769" key="CommitChangelistDialog2" timestamp="1597847285793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="62" y="23" key="CommitChangelistDialog2/-366.-1417.2560.1417/62.23.1618.1027@62.23.1618.1027" timestamp="1596420484493" />
+    <state x="0" y="0" width="848" height="769" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1597847285793" />
+    <state x="50" y="23" width="943" height="877" key="CommitChangelistDialog2/50.23.1390.877/-565.-1417.2560.1417@50.23.1390.877" timestamp="1594364889790" />
+    <state x="304" y="181" key="Vcs.Push.Dialog.v2" timestamp="1597847287704">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="404" y="230" key="Vcs.Push.Dialog.v2/-366.-1417.2560.1417/62.23.1618.1027@62.23.1618.1027" timestamp="1596420486147" />
+    <state x="304" y="181" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1597847287704" />
+    <state x="344" y="200" key="Vcs.Push.Dialog.v2/50.23.1390.877/-565.-1417.2560.1417@50.23.1390.877" timestamp="1594364891589" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>JDK_1.8.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
